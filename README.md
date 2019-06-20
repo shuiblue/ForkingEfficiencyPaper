@@ -19,7 +19,7 @@ You can run the R scripts on the CSV files in the repository to estimate the dif
 
 Please refer to the source code in repo: https://github.com/shuiblue/GithubScript/blob/master/src/Commit/GraphBasedAnalyzer.java
 
-## Detecting if the PR is duplicated
+## Detecting if the PR is duplicate
 
 Please refer to the patterns we designed:
 https://github.com/shuiblue/GithubScript/blob/master/src/Util/IO_Process.java#L1808-L1863
