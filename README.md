@@ -15,7 +15,7 @@ Software Engineering (ESEC/FSE), 2019.
 
 You can run the R scripts on the CSV files in the repository to estimate the different regression models we report on in the paper.
 
-## Operationalization of Ratio of contributing forks
+## Operationalization of Ratio of contributing forks (Figure 2)
 
 Please refer to the source code in repo: https://github.com/shuiblue/GithubScript/blob/master/src/Commit/GraphBasedAnalyzer.java
 
