@@ -3,7 +3,9 @@
 Appendices, data sets, and R scripts for:
 
 ```
-"What the Fork: A Study of Inefficient and Efficient Forking Practices in Social Coding. Shurui Zhou, Bogdan Vasilescu, Christian Kästner.  Proceedings of the 27th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), 2019.
+"What the Fork: A Study of Inefficient and Efficient Forking Practices in Social Coding. 
+Shurui Zhou, Bogdan Vasilescu, Christian Kästner.  Proceedings of the 27th ACM Joint 
+European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), 2019.
 ```
 
 ## R scripts
