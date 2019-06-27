@@ -1,7 +1,6 @@
 # FSE19-ForkingEfficiencyPaper
 
-[![DOI](https://sandbox.zenodo.org/badge/192971904.svg)](https://sandbox.zenodo.org/badge/latestdoi/192971904)
-
+[![DOI](https://zenodo.org/badge/192971904.svg)](https://zenodo.org/badge/latestdoi/192971904)
 Appendices, data sets, and R scripts for:
 
 ```
